@@ -1,2 +1,6 @@
+pandas
+numpy
 dask
 scikit-surprise
+dask[dataframe]
+sklearn
